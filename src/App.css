@@ -1,0 +1,13 @@
+/* .underline-color {
+  background-image: linear-gradient(
+    to bottom,
+    transparent,
+    transparent 60%,
+    var(--swatch--pink-light) 60%,
+    var(--swatch--pink-light) 90%,
+    transparent 90%,
+    transparent
+  );
+  padding-left: 2px;
+  padding-right: 2px;
+} */
