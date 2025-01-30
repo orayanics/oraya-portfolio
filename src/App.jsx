@@ -138,7 +138,7 @@ const projects = [
       "Implemented real-time authentication and database management using Firebase.",
       "Integrated a third-party API Last.fm for music metadata.",
     ],
-    imgPath: "/muzikup.png",
+    imgPath: "./muzikup.png",
     app: "MuzikUp is android application that allows its users to post reviews and ratings of their favorite songs.",
   },
   {
@@ -149,7 +149,7 @@ const projects = [
       "Developed a responsive frontend interface using React and CSS framework Tailwind.",
       "Integrated Firebase for authentication and database management.",
     ],
-    imgPath: "/moneydaddy.png",
+    imgPath: "./moneydaddy.png",
     app: "MoneyDaddy is a web application that helps users track their expenses and income.",
   },
   {
@@ -159,7 +159,7 @@ const projects = [
     description: [
       "Designed and developed MySQL database and backend server logic for authentication and CRUD operations using NodeJS and Express.",
     ],
-    imgPath: "/prioritrack.png",
+    imgPath: "./prioritrack.png",
     app: "PrioriTrack is a desktop application developed for Anrylle Property for document tracking and archiving.",
   },
   {
@@ -171,7 +171,7 @@ const projects = [
       "Integrated and implemented WebRTC for video conferencing and WebSocket for real-time notifications and messaging.",
       "Implemented backend functionality such as CRON job, CRUD operations and email notifications.",
     ],
-    imgPath: "/talktherapy.png",
+    imgPath: "./talktherapy.png",
     app: "TalkTherapy is a mobile-responsive web application that provides a speech therapy telehealth service for its patients and an appointment scheduling system for its therapists.",
   },
 ];
