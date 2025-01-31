@@ -9,7 +9,7 @@ function App() {
       <header className="md:w-1/2 mx-auto">
         <nav className="text-stone-600 flex justify-between items-center px-5 mt-4 mx-5 text-lg">
           <img
-            src="/public/oraya.jpg"
+            src="./oraya.jpg"
             alt="Nicole Oraya"
             className="w-10 h-10 rounded-full"
           />
